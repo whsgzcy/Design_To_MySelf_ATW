@@ -19,3 +19,13 @@
 为什么设计这样的图？是因为我要和非行业的人去沟通，我要告诉他机器是怎么运行的，非行业客户不会告诉你我的需求是什么，而是需要我们去发现，去提、去尝试，比如，“你看，如果这样做怎么样？”，其实前者是在一个大的需求里面逐个去优化的过程
 
 ![custom image](https://github.com/whsgzcy/Design_To_MySelf_ATW/blob/master/images/%E6%A8%A1%E5%9E%8B1.png)
+
+## 4、验证码业务
+两个区别：
+
+1、设备与server之间的通信是基于node，非tcp/udp/http
+
+2、应用场景较具体
+
+![custom image](https://github.com/whsgzcy/Design_To_MySelf_ATW/blob/master/images/%E9%AA%8C%E8%AF%81%E7%A0%81%E6%97%B6%E5%BA%8F%E5%9B%BE.png)
+
