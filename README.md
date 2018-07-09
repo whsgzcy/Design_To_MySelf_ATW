@@ -11,7 +11,7 @@
 ![custom image](https://github.com/whsgzcy/Design_To_MySelf_ATW/blob/master/images/ros.png)
 
 ## 2、客户端设计第三版
-在B端的项目里面过多的以C端的思维去设计，结果管理端不像管理端、APP不像APP，后续会有第三版，用设计B端的设计思维去设计
+在B端的项目里面过多的以C端的思维去设计，结果管理端不像管理端、APP不像APP，后续会有第四版，用设计B端的设计思维去设计
 
 ![custom image](https://github.com/whsgzcy/Design_To_MySelf_ATW/blob/master/images/%E5%AE%A2%E6%88%B7%E7%AB%AF3.png)
 
