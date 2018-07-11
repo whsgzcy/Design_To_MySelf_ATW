@@ -33,12 +33,16 @@
 
 ![custom image](https://github.com/whsgzcy/Design_To_MySelf_ATW/blob/master/images/%E5%AE%A2%E6%88%B7%E7%AB%AF4.1%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.png)
 
-## 5、应用场景Custom
+## 5、设备端设计第四版
+
+![custom image](https://github.com/whsgzcy/Design_To_MySelf_ATW/blob/master/images/%E8%AE%BE%E5%A4%87%E7%AB%AF4.0.png)
+
+## 6、应用场景Custom
 为什么设计这样的图？是因为我要和非行业的人去沟通，我要告诉他机器是怎么运行的，非行业客户不会告诉你我的需求是什么，而是需要我们去发现，去提、去尝试，比如，“你看，如果这样做怎么样？”，其实前者是在一个大的需求里面逐个去优化的过程
 
 ![custom image](https://github.com/whsgzcy/Design_To_MySelf_ATW/blob/master/images/%E6%A8%A1%E5%9E%8B1.png)
 
-## 6、验证码业务
+## 7、验证码业务
 两个区别：
 
 1、设备与server之间的通信是基于node，非tcp/udp/http
