@@ -50,3 +50,8 @@
 2、这里客户端与设备的交互统一交由server，其中客户端A与设备A之间的直线只是为了说明人从客户端A读取验证码在设备端进行输入设备端从server中得到验证从而继续后面的业务
 
 ![custom image](https://github.com/whsgzcy/Design_To_MySelf_ATW/blob/master/images/%E9%AA%8C%E8%AF%81%E7%A0%81%E6%97%B6%E5%BA%8F%E5%9B%BE.png)
+
+## 8、管理端
+管理端1.0设计，基于jfx
+
+![custom image](https://github.com/whsgzcy/Design_To_MySelf_ATW/blob/master/images/server.png)
